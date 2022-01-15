@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">App_Navigation_Login_Dinamic</string>
+
+    <string name="activityname_Login">LOGIN</string>
+    <string name="activityname_edtUserName">UserName</string>
+    <string name="activityname_edtPassword">Password</string>
+    <string name="activityname_btnIniciarSesion">Sign in</string>
+
+
+    <string name="drawer_profile">Perfil</string>
+    <string name="drawer_chat">Chat</string>
+    <string name="drawer_message">Mensaje</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="fragment_message">MENSAJES</string>
+    <string name="fragment_chat">CHATS</string>
+    <string name="fragment_profile">PERFIL</string>
+
+    <string name="navheader_contentDescr">Foto de Usuario</string>
+</resources>
